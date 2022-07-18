@@ -1,6 +1,6 @@
 # Hi there, I'm Tarandeep 👋 
 
-## I am a Full Stack Blockchain Developer
+## Soon to be a Full Stack Blockchain Developer
 
 - 🌱 I’m currently learning Web 3.0
 - 🥅 2022 Goals: Learn more about web3
@@ -31,6 +31,3 @@
 <br />
 
 
-[website]: https://nuketk.com
-[twitter]: https://twitter.com/
-[linkedin]: https://linkedin.com/in/
