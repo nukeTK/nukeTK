@@ -1,4 +1,4 @@
-# Hi there, I'm Tarandeep 👋 
+# Hi there, I'm Taran 👋 
 
 ## Soon to be a Full Stack Blockchain Developer
 
